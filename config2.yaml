@@ -1,0 +1,11 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: pch@synoptek.com
+      name: Admin
+      otp_secret: null
+      password: $2b$12$.XZiG7ol4iOW0NI1ceL.SO9JAxzGJhbB5GPfSrFTxaH6c9zmM4YY.
